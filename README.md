@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @karolinaste
-- 👀 I’m interested in front-end, video editing, riding a road bike 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? On Instagram would be the best: zkoscinakraglosci
+- 👀 I’m interested in: front-end, video editing, riding a road bike 
+- 🌱 I’m currently learning JavaScript, but I would like to be a React Developer in the future  
+- 📫 How to reach me? On LinkedIn: https://www.linkedin.com/in/karolina-st%C4%99pie%C5%84-8b2251192/
 
 <!---
 karolinaste/karolinaste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
